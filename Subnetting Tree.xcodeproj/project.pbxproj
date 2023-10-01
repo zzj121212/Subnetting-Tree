@@ -16,6 +16,7 @@
 		18875CD52AC6FD9A009596F1 /* Subnetting_TreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18875CD42AC6FD9A009596F1 /* Subnetting_TreeTests.swift */; };
 		18875CDF2AC6FD9A009596F1 /* Subnetting_TreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18875CDE2AC6FD9A009596F1 /* Subnetting_TreeUITests.swift */; };
 		18875CE12AC6FD9A009596F1 /* Subnetting_TreeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18875CE02AC6FD9A009596F1 /* Subnetting_TreeUITestsLaunchTests.swift */; };
+		18A587D92AC93C0000F14403 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A587D82AC93C0000F14403 /* TreeNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18875CDA2AC6FD9A009596F1 /* Subnetting TreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Subnetting TreeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18875CDE2AC6FD9A009596F1 /* Subnetting_TreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subnetting_TreeUITests.swift; sourceTree = "<group>"; };
 		18875CE02AC6FD9A009596F1 /* Subnetting_TreeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subnetting_TreeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18A587D82AC93C0000F14403 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				18875CBD2AC6FD95009596F1 /* AppDelegate.swift */,
 				18875CBF2AC6FD95009596F1 /* SceneDelegate.swift */,
 				18875CC12AC6FD95009596F1 /* ViewController.swift */,
+				18A587D82AC93C0000F14403 /* TreeNode.swift */,
 				18875CC32AC6FD95009596F1 /* Main.storyboard */,
 				18875CC62AC6FD99009596F1 /* Assets.xcassets */,
 				18875CC82AC6FD99009596F1 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				18875CC22AC6FD95009596F1 /* ViewController.swift in Sources */,
 				18875CBE2AC6FD95009596F1 /* AppDelegate.swift in Sources */,
 				18875CC02AC6FD95009596F1 /* SceneDelegate.swift in Sources */,
+				18A587D92AC93C0000F14403 /* TreeNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
